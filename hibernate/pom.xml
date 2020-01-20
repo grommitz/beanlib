@@ -4,7 +4,7 @@
 
 	<parent>
 		<groupId>net.sf.beanlib</groupId>
-		<artifactId>beanlib</artifactId>
+		<artifactId>beanlib-parent</artifactId>
 		<version>7.2.0-SNAPSHOT</version>
 	</parent>
 
