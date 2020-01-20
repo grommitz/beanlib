@@ -16,7 +16,7 @@
 	</modules>
 
 	<properties>
-		<version.org.hibernate>5.3.10.Final</version.org.hibernate>
+		<version.org.hibernate>5.4.1.Final</version.org.hibernate>
 		<version.org.slf4j>1.7.22</version.org.slf4j>
 
 		<project.compile.version>1.8</project.compile.version>
